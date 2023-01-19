@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dksuryavanshi009" alt="dksuryavanshi009" /></a> </p>
 
-- 🔭 I’m currently working on **Market Project**
+- 🔭 I’m currently working on **Parul University Projection Team**
 
-- 🌱 I’m currently learning **React API,Node JS**
+- 🌱 I’m currently learning ** Coordinator**
 
 - 👯 I’m looking to collaborate on **DK Foundation**
 
-- 🤝 I’m looking for help with **Stifan Devil**
+- 🤝 I’m looking for help with **Ankit Gajrotar**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dksuryavanshi009?tab=repositories](https://github.com/dksuryavanshi009?tab=repositories)
 

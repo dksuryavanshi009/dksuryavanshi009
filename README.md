@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dksuryavanshi009?tab=repositories](https://github.com/dksuryavanshi009?tab=repositories)
 
-- 📝 I regularly write articles on [https://dksuryavanshi009.github.io/DKInfotech.github.io/](https://dksuryavanshi009.github.io/DKInfotech.github.io/)
+- 📝 I regularly write articles on [https://kutanadhruv009.wixsite.com/be-a-developer](https://kutanadhruv009.wixsite.com/be-a-developer)
 
 - ⚡ Fun fact **I Think I am Funny & Moody**
 

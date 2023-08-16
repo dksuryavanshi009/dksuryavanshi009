@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ** Coordinator**
 
-- 👯 I’m looking to collaborate on **DK Foundation**
+- 👯 I’m looking to collaborate on **Be A Developer**
 
 - 🤝 I’m looking for help with **Ankit Gajrotar**
 

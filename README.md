@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dksuryavanshi009" alt="dksuryavanshi009" /></a> </p>
 
-- 🔭 I’m currently working on **Parul University Projection Team**
+- 🔭 I was work with **Parul University Projection Team**
 
 - 🌱 I’m currently learning ** Coordinator**
 

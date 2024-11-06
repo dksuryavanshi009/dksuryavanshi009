@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dksuryavanshi009" alt="dksuryavanshi009" /></a> </p>
 
-- 🔭 I was worked with **Parul University Projection Team**
+- 🔭 I was worked with **J K Branding (India) Private Limeted Rajkot**
 
-- 🌱 I’m currently learning ** Coordinator**
+- 🌱 I’m currently On the Way to **Full Stack Developer**
 
 - 👯 I’m looking to collaborate on **Be A Developer**
 
-- 🤝 I’m looking for help with **Ankit Gajrotar**
+- 🤝 I’m looking for help with **Full Stack Developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dksuryavanshi009?tab=repositories](https://github.com/dksuryavanshi009?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://dhyeyk.online/)
 
-- 📝 I regularly write articles on [https://kutanadhruv009.wixsite.com/be-a-developer](https://kutanadhruv009.wixsite.com/be-a-developer)
+- 📝 I regularly write articles on [https://dhyeyk.online/)
 
 - ⚡ Fun fact **I Think I am Funny & Moody**
 
